@@ -34,3 +34,9 @@ python recommender.py
 - Distributed ML using Spark
 - Collaborative Filtering
 - Big Data Recommendation Systems
+
+## Future Improvements
+- Hyperparameter tuning
+- Model persistence
+- REST API deployment
+- Integration with real-time streaming data
